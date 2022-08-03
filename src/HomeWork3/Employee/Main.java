@@ -1,4 +1,4 @@
-package Employee;
+package HomeWork3.Employee;
 
 public class Main {
     public static void main(String[] args) {

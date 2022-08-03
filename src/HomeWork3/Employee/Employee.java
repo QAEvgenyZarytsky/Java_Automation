@@ -1,4 +1,4 @@
-package Employee;
+package HomeWork3.Employee;
 
 public class Employee {
     static int count;

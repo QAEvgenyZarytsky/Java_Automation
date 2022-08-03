@@ -1,4 +1,4 @@
-package Form;
+package HomeWork3.Form;
 
 import java.util.Scanner;
 
